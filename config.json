@@ -1,0 +1,17 @@
+{
+  "teams": {
+    "men": true,
+    "women": true
+  },
+  "reminders": {
+    "day_before": true,
+    "hour_before": true
+  },
+  "updates": {
+    "toss": true,
+    "match_start": true,
+    "schedule_changes": true
+  },
+  "muted_matches": [],
+  "refresh_hours": 6
+}
